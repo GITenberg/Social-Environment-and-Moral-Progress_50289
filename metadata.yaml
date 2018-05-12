@@ -1,4 +1,8 @@
 _repo: Social-Environment-and-Moral-Progress_50289
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50289-h/images/cover.jpg
 creator:
   author:
     agent_name: Wallace, Alfred Russel
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/955
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Russel_Wallace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50289#Social-Environment-and-Moral-Progress
 gutenberg_issued: '2015-10-23'
 gutenberg_type: Text
 identifiers:
